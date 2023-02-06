@@ -1,0 +1,72 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "data": {
+      "name": "data",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "databases": {
+      "name": "databases",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "docs": {
+      "name": "docs",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "env": {
+      "name": "env",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "models": {
+      "name": "models",
+      "isOrdered": true,
+      "folders": {
+        "dump": {
+          "name": "dump",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
+      "files": {
+        "Models": 0
+      }
+    },
+    "notebooks": {
+      "name": "notebooks",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "reports": {
+      "name": "reports",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "requirements": {
+      "name": "requirements",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "src": {
+      "name": "src",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    }
+  },
+  "files": {
+    "README": 0
+  }
+}
